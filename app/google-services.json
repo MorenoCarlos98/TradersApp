@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619927997346",
+    "project_id": "tradersapp-b303a",
+    "storage_bucket": "tradersapp-b303a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619927997346:android:f749953e284d819e52c0fb",
+        "android_client_info": {
+          "package_name": "com.carlosbogdan.tradersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619927997346-mgsaae0r0pjh6mtplieomi546m3sspk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiowRTfpQMwCpTmIxT1T7GbZnK9d_eIzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619927997346-mgsaae0r0pjh6mtplieomi546m3sspk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
